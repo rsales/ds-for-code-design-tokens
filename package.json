@@ -1,6 +1,6 @@
 {
   "name": "@rsales/ds-for-code-design-tokens",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Design Token Library for the Simple Design System",
   "main": "index.js",
   "scripts": {
