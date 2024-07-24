@@ -1,5 +1,5 @@
 {
-  "name": "ds-for-code-design-tokens",
+  "name": "@rsales/ds-for-code-design-tokens",
   "version": "0.0.2",
   "description": "Design Token Library for the Simple Design System",
   "main": "index.js",
@@ -11,7 +11,8 @@
     "url": "git+https://github.com/rsales/ds-for-code-design-tokens.git"
   },
   "keywords": [
-    "ds"
+    "Design",
+    "Design System"
   ],
   "author": "Rafael Sales",
   "license": "MIT",
