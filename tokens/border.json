@@ -1,0 +1,37 @@
+{
+  "border": {
+    "Radius": {
+      "$type": "borderRadius",
+      "None": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "8px"
+      },
+      "md": {
+        "$value": "16px"
+      },
+      "lg": {
+        "$value": "24px"
+      }
+    },
+    "Width": {
+      "$type": "borderWidth",
+      "None": {
+        "$value": "0px"
+      },
+      "Hairline": {
+        "$value": "1px"
+      },
+      "Thin": {
+        "$value": "2px"
+      },
+      "Thick": {
+        "$value": "4px"
+      },
+      "Heavy": {
+        "$value": "8px"
+      }
+    }
+  }
+}

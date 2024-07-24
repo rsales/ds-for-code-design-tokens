@@ -1,0 +1,39 @@
+{
+  "shadow": {
+    "$type": "shadow",
+    "Level": {
+      "1": {
+        "$value": {
+          "color": "rgba(0, 0, 0, 0.08)",
+          "offsetX": "0px",
+          "offsetY": "4px",
+          "blur": "9px"
+        }
+      },
+      "2": {
+        "$value": {
+          "color": "rgba(0, 0, 0, 0.08)",
+          "offsetX": "0px",
+          "offsetY": "8px",
+          "blur": "24px"
+        }
+      },
+      "3": {
+        "$value": {
+          "color": "rgba(0, 0, 0, 0.08)",
+          "offsetX": "0px",
+          "offsetY": "16px",
+          "blur": "32px"
+        }
+      },
+      "4": {
+        "$value": {
+          "color": "rgba(0, 0, 0, 0.08)",
+          "offsetX": "0px",
+          "offsetY": "16px",
+          "blur": "48px"
+        }
+      }
+    }
+  }
+}

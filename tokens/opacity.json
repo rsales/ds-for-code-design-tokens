@@ -1,0 +1,22 @@
+{
+  "opacity": {
+    "$type": "opacity",
+    "Level": {
+      "Semiopaque": {
+        "$value": 0.80
+      },
+      "Intense": {
+        "$value": 0.64
+      },
+      "Medium": {
+        "$value": 0.32
+      },
+      "Light": {
+        "$value": 0.16
+      },
+      "Semitransparent": {
+        "$value": 0.08
+      }
+    }
+  }
+}
