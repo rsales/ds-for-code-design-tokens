@@ -2,8 +2,16 @@
   "name": "@rsales/ds-for-code-design-tokens",
   "version": "0.0.3",
   "description": "Design Token Library for the Simple Design System",
-  "main": "index.js",
+  "main": "build/index.js",
+  "type": "module",
+  "files": [
+    "build",
+    "properties"
+  ],
   "scripts": {
+    "build": "node_modules/.bin/style-dictionary build",
+    "clean": "rm -rf build",
+    "prepublishOnly": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,6 +24,9 @@
   ],
   "author": "Rafael Sales",
   "license": "MIT",
+  "devDependencies": {
+    "style-dictionary": "^4.0.0"
+  },
   "bugs": {
     "url": "https://github.com/rsales/ds-for-code-design-tokens/issues"
   },
