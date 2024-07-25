@@ -1,4 +1,4 @@
-# DS-FOR-CODE-DESIGN-TOKENS • Basic Style Dictionary
+# DS-FOR-CODE-DESIGN-TOKENS
 
 This example code is bare-bones to show you what this framework can do. If you have the style-dictionary module installed globally, you can `cd` into this directory and run:
 
