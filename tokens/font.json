@@ -6,7 +6,7 @@
         "$value": "Roboto, sans-serif"
       }
     },
-    "weights": {
+    "weight": {
       "$type": "fontWeight",
       "light": {
         "$value": 300
@@ -60,8 +60,8 @@
         "$value": "8rem"
       }
     },
-    "lineHeight": {
-      "$type": "percentage",
+    "line_height": {
+      "$type": "lineHeight",
       "tight": {
         "$value": "100%"
       },

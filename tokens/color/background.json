@@ -1,0 +1,11 @@
+{
+  "color": {
+    "background": {
+      "primary": {
+        "$value": "{color.neutral.dark_black}",
+        "$type": "color",
+        "$attributes": { "$font": "primitive" }
+      }
+    }
+  }
+} 

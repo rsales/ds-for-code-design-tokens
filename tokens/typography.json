@@ -1,0 +1,45 @@
+{
+  "typography": {
+    "$type": "typography",
+    "heading": {
+      "5xl": {
+        "$value": {
+          "fontFamily": "{font.family.base}",
+          "fontSize": "{font.size.5xl}",
+          "fontWeight": "{font.weight.bold}",
+          "lineHeight": "{font.line_height.medium}"
+        },
+        "$attributes": { "$font": "font" }
+      },
+      "3xl": {
+        "$value": {
+          "fontFamily": "{font.family.base}",
+          "fontSize": "{font.size.3xl}",
+          "fontWeight": "{font.weight.bold}",
+          "lineHeight": "{font.line_height.medium}"
+        },
+        "$attributes": { "$font": "font" }
+      }
+    },
+    "body": {
+      "lg": {
+        "$value": {
+          "fontFamily": "{font.family.base}",
+          "fontSize": "{font.size.lg}",
+          "fontWeight": "{font.weight.bold}",
+          "lineHeight": "{font.line_height.distant}"
+        },
+        "$attributes": { "$font": "font" }
+      },
+      "base": {
+        "$value": {
+          "fontFamily": "{font.family.base}",
+          "fontSize": "{font.size.base}",
+          "fontWeight": "{font.weight.bold}",
+          "lineHeight": "{font.line_height.distant}"
+        },
+        "$attributes": { "$font": "font" }
+      }
+    }
+  }
+}

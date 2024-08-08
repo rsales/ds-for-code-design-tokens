@@ -1,8 +1,8 @@
 {
-  "colors": {
+  "color": {
     "$type": "color",
-    "Brand": {
-      "Primary": {
+    "brand": {
+      "primary": {
         "50": {
           "$value": "#FFF4FE"
         },
@@ -37,7 +37,7 @@
           "$value": "#4B073A"
         }
       },
-      "Secondary": {
+      "secondary": {
         "50": {
           "$value": "#EFFEFC"
         },
@@ -73,7 +73,7 @@
         }
       }
     },
-    "Feedback": {
+    "feedback": {
       "Success": {
         "50": {
           "$value": "#EEFBF4"
@@ -250,20 +250,20 @@
         }
       }
     },
-    "Neutral": {
-      "Lightest": {
+    "neutral": {
+      "lightest": {
         "$value": "#FFFFFF"
       },
-      "Light": {
+      "light": {
         "$value": "#EFF0F1"
       },
-      "Medium": {
+      "medium": {
         "$value": "#D6D7DA"
       },
-      "Dark": {
+      "dark_black": {
         "$value": "#747880"
       },
-      "Darkest": {
+      "darkest": {
         "$value": "#000000"
       }
     }

@@ -1,0 +1,42 @@
+
+{
+  "spacing": {
+    "2": {
+      "$type": "number",
+      "$value": 2
+    },
+    "4": {
+      "$type": "number",
+      "$value": 4
+    },
+    "8": {
+      "$type": "number",
+      "$value": 8
+    },
+    "12": {
+      "$type": "number",
+      "$value": 12
+    },
+    "16": {
+      "$type": "number",
+      "$value": 16
+    },
+    "24": {
+      "$type": "number",
+      "$value": 24
+    },
+    "32": {
+      "$type": "number",
+      "$value": 32
+    },
+    "40": {
+      "$type": "number",
+      "$value": 40
+    },
+    "48": {
+      "$type": "number",
+      "$value": 48
+    }
+  }
+}
+  
