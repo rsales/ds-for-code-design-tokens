@@ -2,7 +2,7 @@
   "color": {
     "$type": "color",
     "brand": {
-      "primary": {
+      "secondary": {
         "50": {
           "$value": "#FFF4FE"
         },
@@ -37,7 +37,7 @@
           "$value": "#4B073A"
         }
       },
-      "secondary": {
+      "primary": {
         "50": {
           "$value": "#EFFEFC"
         },
